@@ -1,4 +1,14 @@
+![代替テキスト](https://yamamotoxqx.com/img/github-README.png)
+
+
 ### Hi there 👋
+こんちゃ
+yamamotoxqxです。
+プログラミングを勉強していて、WEBデザイン、バックエンド、コミュニケーションツールのボットなど、いろいろなものをなんとなぁく作ってる高校生です。
+
+## My hobbies
+
+
 
 <!--
 **yamamotoxqx/yamamotoxqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
