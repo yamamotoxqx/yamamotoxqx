@@ -1,13 +1,13 @@
 ![　background](https://yamamotoxqx.com/img/github-readme2.png)
 
 
-### Hi there 👋
+# Hi there 👋
 
 yamamotoxqxです。
 最近プログラミングが楽しくて、いろいろな言語を勉強しています。将来は、プログラミングを使って、何か役に立つものを作りたいと思っています。
 今やってるのはWEBデザイン、バックエンド、コミュニケーションツールのボットなど、いろいろなものをなんとなぁく作ってるます。
 
-## My hobbies
+# My hobbies
 
 * 寝ること
 <br>寝るのは大好きです。
