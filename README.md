@@ -17,7 +17,8 @@ yamamotoxqxです。
   * ストリートファイター6
   <br>とかなんとなくやってます。
 
-#　なんとなく使える言語
+#　ai
+
 * HTML
 * css
 * Javascript
