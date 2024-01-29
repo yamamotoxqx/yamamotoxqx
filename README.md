@@ -1,4 +1,4 @@
-![代替テキスト](https://yamamotoxqx.com/img/github-README.png){height=200}
+![代替テキスト](https://yamamotoxqx.com/img/github-README.png){width=300　height=200}
 
 
 ### Hi there 👋
